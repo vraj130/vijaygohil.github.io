@@ -1,6 +1,6 @@
 # Vijay Gohil — Portfolio Website
 
-Welcome to the source code for my personal portfolio, hosted via **GitHub Pages** and accessible at [vijaygohil.com](https://vijaygohil.com).
+Welcome to my portfolio.
 
 This site is my central hub where you can find:
 - 🖥 **GitHub projects** and open-source work  
@@ -12,8 +12,7 @@ This site is my central hub where you can find:
 
 ---
 
-## 🔗 Live Website
-[**Visit Portfolio**](https://vijaygohil.com)
+
 
 ---
 
